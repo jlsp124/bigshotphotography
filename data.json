@@ -1,0 +1,66 @@
+{
+  "businessName": "BIGSHOT PHOTOGRAPHY",
+  "category": "Photography",
+  "tagline": "A simple photography portfolio site-clean, fast, and easy to book.",
+  "address": "3960 15TH AVE, Prince George, BC V2M 1T6",
+  "phone": "250-640-4908",
+  "email": "jbigshotphotography@gmail.com",
+  "notes": "",
+  "services": [
+    {
+      "name": "Sessions (confirm)",
+      "desc": "Examples: portraits, events, lifestyle, headshots."
+    },
+    {
+      "name": "Booking inquiries",
+      "desc": "Simple contact form + direct email."
+    },
+    {
+      "name": "Portfolio (placeholder)",
+      "desc": "Uses local SVG placeholders until real photos are added."
+    },
+    {
+      "name": "Rates (optional)",
+      "desc": "Space to add packages later if desired."
+    }
+  ],
+  "palette": {
+    "bg": "#f7f5fb",
+    "text": "#221f2a",
+    "accent": "#6d3fd9",
+    "accent2": "#14769a"
+  },
+  "slug": "bigshot-photography",
+  "mapLink": "https://www.google.com/maps/search/?api=1&query=3960%2015TH%20AVE%2C%20Prince%20George%2C%20BC%20V2M%201T6",
+  "serviceArea": "",
+  "placeholders": {
+    "hero": "Placeholder: hero image (signature portfolio shot)",
+    "about": "Placeholder: photographer at work",
+    "homeGallery": [
+      "Placeholder: portrait sample",
+      "Placeholder: lifestyle session",
+      "Placeholder: event candid",
+      "Placeholder: headshot sample",
+      "Placeholder: outdoor session",
+      "Placeholder: studio setup",
+      "Placeholder: detail shot",
+      "Placeholder: family session",
+      "Placeholder: commercial scene",
+      "Placeholder: black and white sample",
+      "Placeholder: behind-the-scenes",
+      "Placeholder: local Prince George backdrop"
+    ],
+    "servicesGallery": [
+      "Placeholder: portrait portfolio",
+      "Placeholder: event portfolio",
+      "Placeholder: lifestyle portfolio",
+      "Placeholder: headshot portfolio",
+      "Placeholder: booking process graphic",
+      "Placeholder: rates placeholder",
+      "Placeholder: editing workflow",
+      "Placeholder: delivery gallery preview",
+      "Placeholder: client testimonial spot",
+      "Placeholder: seasonal session sample"
+    ]
+  }
+}
